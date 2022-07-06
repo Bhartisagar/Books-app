@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first snapshot 1`] = `
+<div
+  className="makeStyles-mainDiv-1"
+>
+  <div
+    className="MuiBox-root MuiBox-root-8 makeStyles-banner-7"
+  >
+    <div
+      className="makeStyles-heading-4"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4"
+      >
+         
+        Explore Books on
+      </h4>
+      <h4
+        className="MuiTypography-root MuiTypography-h4"
+      >
+         
+        entrepreneurship
+      </h4>
+      <div
+        className="makeStyles-subtitlesCon-6"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-subtitles-5 MuiTypography-subtitle2"
+        >
+          Everything you need to know about thriving on a
+        </h6>
+        <h6
+          className="MuiTypography-root makeStyles-subtitles-5 MuiTypography-subtitle2"
+        >
+          shoestring budget, making your first million, and hiring 
+        </h6>
+        <h6
+          className="MuiTypography-root makeStyles-subtitles-5 MuiTypography-subtitle2"
+        >
+          right from the start.
+        </h6>
+      </div>
+    </div>
+    <img
+      alt="banner"
+      src="girl.svg"
+    />
+  </div>
+  <div
+    className="makeStyles-typo-2"
+  >
+    <div
+      className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+    >
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+        onClick={[Function]}
+      >
+        <div
+          className="MuiInputAdornment-root MuiInputAdornment-positionStart"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+        <input
+          aria-invalid={false}
+          autoFocus={false}
+          className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+          disabled={false}
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          required={false}
+          type="text"
+          value="Search by author and book names"
+        />
+      </div>
+    </div>
+  </div>
+  <h6
+    className="MuiTypography-root makeStyles-typo-2 MuiTypography-h6"
+  >
+    Trending blinks
+  </h6>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+  <h6
+    className="MuiTypography-root makeStyles-typo-2 MuiTypography-h6"
+  >
+    Just added
+  </h6>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+  <h6
+    className="MuiTypography-root makeStyles-typo-2 MuiTypography-h6"
+  >
+    Featured audio blinks
+  </h6>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+</div>
+`;

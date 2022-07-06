@@ -1,0 +1,355 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first snapshot 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-appbar-3 mui-fixed MuiPaper-elevation0"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-9 MuiToolbar-gutters"
+    >
+      <div
+        className="makeStyles-main-5"
+      >
+        <div
+          className="makeStyles-logoStyle-7"
+        >
+           
+          <img
+            alt="logo"
+            src="logo.svg"
+          />
+          <img
+            alt="search"
+            src="Vector.png"
+          />
+        </div>
+        <div
+          className="makeStyles-exploreText-6"
+        >
+          <p
+            className="MuiTypography-root makeStyles-tyPo-8 MuiTypography-body1"
+            data-testid="explorediv"
+            onClick={[Function]}
+          >
+            Explore
+          </p>
+          <img
+            alt="downlist"
+            src="down.png"
+            style={
+              Object {
+                "marginTop": "0.5vh",
+              }
+            }
+          />
+          <div
+            className="makeStyles-nav_content-4"
+          >
+            <div />
+          </div>
+        </div>
+        <div
+          className="makeStyles-myLibrary-11"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body1"
+            data-testid="lib"
+            onClick={[Function]}
+          >
+            My Library
+          </p>
+        </div>
+      </div>
+      <div
+        className="makeStyles-avt-10"
+        onClick={[Function]}
+      >
+        <div>
+          <div
+            className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault"
+            style={
+              Object {
+                "backgroundColor": "blue",
+              }
+            }
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiAvatar-fallback"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+              />
+            </svg>
+          </div>
+           
+        </div>
+        <img
+          alt="downlist1"
+          src="down.png"
+          style={
+            Object {
+              "left": "73vw",
+              "top": "3vh",
+            }
+          }
+        />
+        <div />
+      </div>
+    </div>
+  </header>,
+  <div
+    className="makeStyles-heading-2"
+  >
+    <h1
+      className="MuiTypography-root makeStyles-mylibrary-1 MuiTypography-h1"
+    >
+      My Library
+    </h1>
+  </div>,
+  <div>
+    <div
+      className="MuiTabs-root makeStyles-tabStyle-15"
+      data-testid="tabs"
+    >
+      <div
+        className="MuiTabs-scroller MuiTabs-fixed"
+        onScroll={[Function]}
+        style={
+          Object {
+            "marginBottom": null,
+            "overflow": "hidden",
+          }
+        }
+      >
+        <div
+          className="MuiTabs-flexContainer"
+          onKeyDown={[Function]}
+          role="tablist"
+        >
+          <button
+            aria-selected={true}
+            className="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit makeStyles-cr-16 Mui-selected"
+            disabled={false}
+            id="curTab"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="tab"
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiTab-wrapper"
+            >
+              Current Reading
+            </span>
+            <span
+              className="PrivateTabIndicator-root-18 PrivateTabIndicator-colorSecondary-20 MuiTabs-indicator"
+              style={
+                Object {
+                  "backgroundColor": "rgba(44, 224, 128, 1)",
+                }
+              }
+            />
+          </button>
+          <button
+            aria-selected={false}
+            className="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit makeStyles-r-17"
+            disabled={false}
+            id="finishTab"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            role="tab"
+            tabIndex={-1}
+            type="button"
+          >
+            <span
+              className="MuiTab-wrapper"
+            >
+              finished
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <h1>
+         
+        <div
+          className="MuiContainer-root MuiContainer-maxWidthLg"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container"
+          />
+        </div>
+         
+      </h1>
+    </div>
+    <div />
+  </div>,
+  <footer
+    className="makeStyles-main-25"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-32 makeStyles-footerCon-22"
+    >
+      <div
+        className="makeStyles-footer_left-29"
+      >
+        <img
+          alt="blinkist"
+          className="makeStyles-footer_logo-23"
+          src="logo.svg"
+        />
+        <h5
+          className="MuiTypography-root makeStyles-heading-27 MuiTypography-h5"
+        >
+          Big ideas in small packages 
+        </h5>
+        <h5
+          className="MuiTypography-root makeStyles-heading-27 MuiTypography-h5"
+        >
+          Start learning now
+        </h5>
+      </div>
+      <div
+        className="makeStyles-footer_right-24"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-subtitle_head-28 MuiTypography-subtitle2"
+        >
+          Editorial
+        </h6>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph1-0"
+        >
+          Book lists
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph1-1"
+        >
+          What is Nonfiction?
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph1-2"
+        >
+          What to Read Next
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph1-3"
+        >
+          Benefits of Reading
+        </p>
+      </div>
+      <div
+        className="makeStyles-footer_right-24"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-subtitle_head-28 MuiTypography-subtitle2"
+        >
+          Useful Links
+        </h6>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph2-0"
+        >
+          Pricing
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph2-1"
+        >
+          Blinkist Business
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph2-2"
+        >
+          Gift Cards
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph2-3"
+        >
+          Blinkist Magazine
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph2-4"
+        >
+          Contact & Help
+        </p>
+      </div>
+      <div
+        className="makeStyles-footer_right-24"
+      >
+        <h6
+          className="MuiTypography-root makeStyles-subtitle_head-28 MuiTypography-subtitle2"
+        >
+          Company
+        </h6>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph3-0"
+        >
+          About
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph3-1"
+        >
+          Careers
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph3-2"
+        >
+          Partners
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-links-26 MuiTypography-body2"
+          data-testid="paragraph3-3"
+        >
+          Code of Conduct
+        </p>
+      </div>
+    </div>
+    <div
+      className="makeStyles-bottom_foot-30"
+    >
+      <div
+        className="makeStyles-bottom_text-31"
+      >
+        © Blinkist 2021 | Sitemap Imprint | Terms of Service | Privacy Policies
+      </div>
+    </div>
+  </footer>,
+]
+`;

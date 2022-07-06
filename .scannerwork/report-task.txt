@@ -1,0 +1,7 @@
+organization=bharti2022
+projectKey=bharti2022_myblinkist-app
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27985
+dashboardUrl=https://sonarcloud.io/dashboard?id=bharti2022_myblinkist-app
+ceTaskId=AX_hbwHcs0aqXXovPv7X
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX_hbwHcs0aqXXovPv7X

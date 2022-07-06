@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/ExploreDropDownComponent.test.tsx">
+    <testCase name="first snapshot" duration="61"/>
+    <testCase name="should render entrepreneur icon" duration="1227">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;Explore by category&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "Explore by category"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-17"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-17"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-17"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-17"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-17"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-17"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-17"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-17"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-17"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-17"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-17"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-17"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-17"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-17"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-17"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-17"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-17"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-17"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiBox-root MuiBox-root-18 makeStyles-explore_container-12"
+    >
+      <div
+        class="makeStyles-explore_header-13"
+      >
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-14 MuiTypography-body1 MuiTypography-colorPrimary"
+        >
+          Explore by category
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-14 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See recently added titles
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-14 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See popular titles
+        </p>
+      </div>
+      <div
+        class="makeStyles-explore_content-15"
+      >
+        <div
+          class="makeStyles-explore_content-15"
+        >
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="entrepreneurship"
+              class="makeStyles-icons-17"
+              src="rocket.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelement1-11 MuiTypography-body2 MuiTypography-colorTextPrimary"
+            >
+              Entrepreneurship
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="science"
+              class="makeStyles-icons-17"
+              src="science.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Science 
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Economics"
+              class="makeStyles-icons-17"
+              src="globe.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Economics
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Corporate Culture"
+              class="makeStyles-icons-17"
+              src="bag.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Corporate Culture
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+             
+            <img
+              alt="Psychology"
+              class="makeStyles-icons-17"
+              src="man.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Psychology
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+             
+            <img
+              alt="Nature"
+              class="makeStyles-icons-17"
+              src="leaf.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Nature & Environment
+            </p>
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-15"
+        >
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Politics"
+              class="makeStyles-icons-17"
+              src="buliding.png"
+            />
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Politics
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="health"
+              class="makeStyles-icons-17"
+              src="health.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Health & Nutrition
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="history"
+              class="makeStyles-icons-17"
+              src="history.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              History
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Motivation"
+              class="makeStyles-icons-17"
+              src="bulb.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Motivation & Inspiration
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Productivity"
+              class="makeStyles-icons-17"
+              src="timer.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Productivity
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Career"
+              class="makeStyles-icons-17"
+              src="doublecircle.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Career & Success
+            </p>
+             
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-15"
+        >
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Marketing"
+              class="makeStyles-icons-17"
+              src="statistics.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Marketing & Sales
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt=" Personal Development"
+              class="makeStyles-icons-17"
+              src="analytical.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Personal Development
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt=" Communication Skills"
+              class="makeStyles-icons-17"
+              src="msg.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Communication Skills
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Investments "
+              class="makeStyles-icons-17"
+              src="money.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Money & Investments
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Relationships "
+              class="makeStyles-icons-17"
+              src="heart.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Sex & Relationships
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-16"
+          >
+            <img
+              alt="Education"
+              class="makeStyles-icons-17"
+              src="education.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-10 MuiTypography-body2"
+            >
+              Education
+            </p>
+             
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/ExploreDropDownComponent.test.tsx:18:27)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render heading See recently added titles" duration="1090">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;See recently added titles&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "See recently added titles"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-26"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-26"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-26"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-26"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-26"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-26"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-26"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-26"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-26"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-26"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-26"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-26"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-26"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-26"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-26"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-26"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-26"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-26"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiBox-root MuiBox-root-27 makeStyles-explore_container-21"
+    >
+      <div
+        class="makeStyles-explore_header-22"
+      >
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-23 MuiTypography-body1 MuiTypography-colorPrimary"
+        >
+          Explore by category
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-23 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See recently added titles
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-23 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See popular titles
+        </p>
+      </div>
+      <div
+        class="makeStyles-explore_content-24"
+      >
+        <div
+          class="makeStyles-explore_content-24"
+        >
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="entrepreneurship"
+              class="makeStyles-icons-26"
+              src="rocket.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelement1-20 MuiTypography-body2 MuiTypography-colorTextPrimary"
+            >
+              Entrepreneurship
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="science"
+              class="makeStyles-icons-26"
+              src="science.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Science 
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Economics"
+              class="makeStyles-icons-26"
+              src="globe.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Economics
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Corporate Culture"
+              class="makeStyles-icons-26"
+              src="bag.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Corporate Culture
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+             
+            <img
+              alt="Psychology"
+              class="makeStyles-icons-26"
+              src="man.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Psychology
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+             
+            <img
+              alt="Nature"
+              class="makeStyles-icons-26"
+              src="leaf.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Nature & Environment
+            </p>
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-24"
+        >
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Politics"
+              class="makeStyles-icons-26"
+              src="buliding.png"
+            />
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Politics
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="health"
+              class="makeStyles-icons-26"
+              src="health.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Health & Nutrition
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="history"
+              class="makeStyles-icons-26"
+              src="history.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              History
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Motivation"
+              class="makeStyles-icons-26"
+              src="bulb.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Motivation & Inspiration
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Productivity"
+              class="makeStyles-icons-26"
+              src="timer.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Productivity
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Career"
+              class="makeStyles-icons-26"
+              src="doublecircle.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Career & Success
+            </p>
+             
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-24"
+        >
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Marketing"
+              class="makeStyles-icons-26"
+              src="statistics.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Marketing & Sales
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt=" Personal Development"
+              class="makeStyles-icons-26"
+              src="analytical.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Personal Development
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt=" Communication Skills"
+              class="makeStyles-icons-26"
+              src="msg.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Communication Skills
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Investments "
+              class="makeStyles-icons-26"
+              src="money.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Money & Investments
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Relationships "
+              class="makeStyles-icons-26"
+              src="heart.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Sex & Relationships
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-25"
+          >
+            <img
+              alt="Education"
+              class="makeStyles-icons-26"
+              src="education.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-19 MuiTypography-body2"
+            >
+              Education
+            </p>
+             
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/ExploreDropDownComponent.test.tsx:23:25)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render See popular titles icon" duration="1044">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;See popular titles&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "See popular titles"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-35"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-35"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-35"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-35"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-35"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-35"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-35"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-35"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-35"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-35"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-35"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-35"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-35"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-35"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-35"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-35"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-35"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-35"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiBox-root MuiBox-root-36 makeStyles-explore_container-30"
+    >
+      <div
+        class="makeStyles-explore_header-31"
+      >
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-32 MuiTypography-body1 MuiTypography-colorPrimary"
+        >
+          Explore by category
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-32 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See recently added titles
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-explore_titles-32 MuiTypography-body1 MuiTypography-colorTextPrimary"
+        >
+          See popular titles
+        </p>
+      </div>
+      <div
+        class="makeStyles-explore_content-33"
+      >
+        <div
+          class="makeStyles-explore_content-33"
+        >
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="entrepreneurship"
+              class="makeStyles-icons-35"
+              src="rocket.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelement1-29 MuiTypography-body2 MuiTypography-colorTextPrimary"
+            >
+              Entrepreneurship
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="science"
+              class="makeStyles-icons-35"
+              src="science.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Science 
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Economics"
+              class="makeStyles-icons-35"
+              src="globe.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Economics
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Corporate Culture"
+              class="makeStyles-icons-35"
+              src="bag.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Corporate Culture
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+             
+            <img
+              alt="Psychology"
+              class="makeStyles-icons-35"
+              src="man.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Psychology
+            </p>
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+             
+            <img
+              alt="Nature"
+              class="makeStyles-icons-35"
+              src="leaf.png"
+            />
+              
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Nature & Environment
+            </p>
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-33"
+        >
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Politics"
+              class="makeStyles-icons-35"
+              src="buliding.png"
+            />
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Politics
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="health"
+              class="makeStyles-icons-35"
+              src="health.png"
+            />
+             
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Health & Nutrition
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="history"
+              class="makeStyles-icons-35"
+              src="history.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              History
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Motivation"
+              class="makeStyles-icons-35"
+              src="bulb.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Motivation & Inspiration
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Productivity"
+              class="makeStyles-icons-35"
+              src="timer.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Productivity
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Career"
+              class="makeStyles-icons-35"
+              src="doublecircle.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Career & Success
+            </p>
+             
+          </div>
+        </div>
+        <div
+          class="makeStyles-explore_content-33"
+        >
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Marketing"
+              class="makeStyles-icons-35"
+              src="statistics.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Marketing & Sales
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt=" Personal Development"
+              class="makeStyles-icons-35"
+              src="analytical.png"
+            />
+               
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Personal Development
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt=" Communication Skills"
+              class="makeStyles-icons-35"
+              src="msg.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Communication Skills
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Investments "
+              class="makeStyles-icons-35"
+              src="money.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Money & Investments
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Relationships "
+              class="makeStyles-icons-35"
+              src="heart.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Sex & Relationships
+            </p>
+             
+          </div>
+          <div
+            class="makeStyles-subtitles-34"
+          >
+            <img
+              alt="Education"
+              class="makeStyles-icons-35"
+              src="education.png"
+            />
+                
+            <p
+              class="MuiTypography-root makeStyles-subelements-28 MuiTypography-body2"
+            >
+              Education
+            </p>
+             
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/ExploreDropDownComponent.test.tsx:28:25)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render rocket icon" duration="40"/>
+    <testCase name="should render health icon" duration="36"/>
+    <testCase name="should render science icon" duration="34"/>
+    <testCase name="should render Econics icon" duration="41"/>
+    <testCase name="should render Motivation icon" duration="34"/>
+    <testCase name="should render Productivity icon" duration="32"/>
+    <testCase name="should render Career icon" duration="33"/>
+    <testCase name="should render Personal Development icon" duration="31"/>
+    <testCase name="should render  icon" duration="33"/>
+    <testCase name="should render Investments icon" duration="31"/>
+    <testCase name="should render Relationships icon" duration="30"/>
+    <testCase name="should render Education icon" duration="30"/>
+    <testCase name="should render history icon" duration="30"/>
+    <testCase name="should render Corporate Culture icon" duration="29"/>
+    <testCase name="should render Psychology icon" duration="38"/>
+    <testCase name="should render Nature icon" duration="28"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/index.test.tsx">
+    <testCase name="render dropdown" duration="133"/>
+    <testCase name="should render entrepreneur icon" duration="1556">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;Explore by category&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "Explore by category"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-21"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-21"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-21"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-21"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-21"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-21"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-21"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-21"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-21"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-21"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-21"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-21"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-21"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-21"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-21"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-21"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-21"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-21"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="makeStyles-container-12"
+      data-testid="explore"
+    >
+      <div
+        class="makeStyles-inner-13"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-22 makeStyles-explore_container-16"
+        >
+          <div
+            class="makeStyles-explore_header-17"
+          >
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-18 MuiTypography-body1 MuiTypography-colorPrimary"
+            >
+              Explore by category
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-18 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See recently added titles
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-18 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See popular titles
+            </p>
+          </div>
+          <div
+            class="makeStyles-explore_content-19"
+          >
+            <div
+              class="makeStyles-explore_content-19"
+            >
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="entrepreneurship"
+                  class="makeStyles-icons-21"
+                  src="rocket.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelement1-15 MuiTypography-body2 MuiTypography-colorTextPrimary"
+                >
+                  Entrepreneurship
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="science"
+                  class="makeStyles-icons-21"
+                  src="science.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Science 
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Economics"
+                  class="makeStyles-icons-21"
+                  src="globe.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Economics
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Corporate Culture"
+                  class="makeStyles-icons-21"
+                  src="bag.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Corporate Culture
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                 
+                <img
+                  alt="Psychology"
+                  class="makeStyles-icons-21"
+                  src="man.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Psychology
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                 
+                <img
+                  alt="Nature"
+                  class="makeStyles-icons-21"
+                  src="leaf.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Nature & Environment
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-19"
+            >
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Politics"
+                  class="makeStyles-icons-21"
+                  src="buliding.png"
+                />
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Politics
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="health"
+                  class="makeStyles-icons-21"
+                  src="health.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Health & Nutrition
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="history"
+                  class="makeStyles-icons-21"
+                  src="history.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  History
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Motivation"
+                  class="makeStyles-icons-21"
+                  src="bulb.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Motivation & Inspiration
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Productivity"
+                  class="makeStyles-icons-21"
+                  src="timer.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Productivity
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Career"
+                  class="makeStyles-icons-21"
+                  src="doublecircle.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Career & Success
+                </p>
+                 
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-19"
+            >
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Marketing"
+                  class="makeStyles-icons-21"
+                  src="statistics.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Marketing & Sales
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt=" Personal Development"
+                  class="makeStyles-icons-21"
+                  src="analytical.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Personal Development
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt=" Communication Skills"
+                  class="makeStyles-icons-21"
+                  src="msg.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Communication Skills
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Investments "
+                  class="makeStyles-icons-21"
+                  src="money.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Money & Investments
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Relationships "
+                  class="makeStyles-icons-21"
+                  src="heart.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Sex & Relationships
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-20"
+              >
+                <img
+                  alt="Education"
+                  class="makeStyles-icons-21"
+                  src="education.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-14 MuiTypography-body2"
+                >
+                  Education
+                </p>
+                 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/index.test.tsx:14:25)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render heading See recently added titles" duration="1406">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;See recently added titles&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "See recently added titles"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-32"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-32"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-32"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-32"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-32"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-32"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-32"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-32"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-32"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-32"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-32"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-32"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-32"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-32"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-32"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-32"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-32"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-32"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="makeStyles-container-23"
+      data-testid="explore"
+    >
+      <div
+        class="makeStyles-inner-24"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-33 makeStyles-explore_container-27"
+        >
+          <div
+            class="makeStyles-explore_header-28"
+          >
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-29 MuiTypography-body1 MuiTypography-colorPrimary"
+            >
+              Explore by category
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-29 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See recently added titles
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-29 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See popular titles
+            </p>
+          </div>
+          <div
+            class="makeStyles-explore_content-30"
+          >
+            <div
+              class="makeStyles-explore_content-30"
+            >
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="entrepreneurship"
+                  class="makeStyles-icons-32"
+                  src="rocket.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelement1-26 MuiTypography-body2 MuiTypography-colorTextPrimary"
+                >
+                  Entrepreneurship
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="science"
+                  class="makeStyles-icons-32"
+                  src="science.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Science 
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Economics"
+                  class="makeStyles-icons-32"
+                  src="globe.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Economics
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Corporate Culture"
+                  class="makeStyles-icons-32"
+                  src="bag.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Corporate Culture
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                 
+                <img
+                  alt="Psychology"
+                  class="makeStyles-icons-32"
+                  src="man.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Psychology
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                 
+                <img
+                  alt="Nature"
+                  class="makeStyles-icons-32"
+                  src="leaf.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Nature & Environment
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-30"
+            >
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Politics"
+                  class="makeStyles-icons-32"
+                  src="buliding.png"
+                />
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Politics
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="health"
+                  class="makeStyles-icons-32"
+                  src="health.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Health & Nutrition
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="history"
+                  class="makeStyles-icons-32"
+                  src="history.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  History
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Motivation"
+                  class="makeStyles-icons-32"
+                  src="bulb.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Motivation & Inspiration
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Productivity"
+                  class="makeStyles-icons-32"
+                  src="timer.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Productivity
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Career"
+                  class="makeStyles-icons-32"
+                  src="doublecircle.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Career & Success
+                </p>
+                 
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-30"
+            >
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Marketing"
+                  class="makeStyles-icons-32"
+                  src="statistics.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Marketing & Sales
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt=" Personal Development"
+                  class="makeStyles-icons-32"
+                  src="analytical.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Personal Development
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt=" Communication Skills"
+                  class="makeStyles-icons-32"
+                  src="msg.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Communication Skills
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Investments "
+                  class="makeStyles-icons-32"
+                  src="money.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Money & Investments
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Relationships "
+                  class="makeStyles-icons-32"
+                  src="heart.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Sex & Relationships
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-31"
+              >
+                <img
+                  alt="Education"
+                  class="makeStyles-icons-32"
+                  src="education.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-25 MuiTypography-body2"
+                >
+                  Education
+                </p>
+                 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/index.test.tsx:19:23)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render See popular titles icon" duration="1440">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;See popular titles&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "See popular titles"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "entrepreneurship":
+  <img
+    alt="entrepreneurship"
+    class="makeStyles-icons-43"
+    src="rocket.png"
+  />
+
+  Name "science":
+  <img
+    alt="science"
+    class="makeStyles-icons-43"
+    src="science.png"
+  />
+
+  Name "Economics":
+  <img
+    alt="Economics"
+    class="makeStyles-icons-43"
+    src="globe.png"
+  />
+
+  Name "Corporate Culture":
+  <img
+    alt="Corporate Culture"
+    class="makeStyles-icons-43"
+    src="bag.png"
+  />
+
+  Name "Psychology":
+  <img
+    alt="Psychology"
+    class="makeStyles-icons-43"
+    src="man.png"
+  />
+
+  Name "Nature":
+  <img
+    alt="Nature"
+    class="makeStyles-icons-43"
+    src="leaf.png"
+  />
+
+  Name "Politics":
+  <img
+    alt="Politics"
+    class="makeStyles-icons-43"
+    src="buliding.png"
+  />
+
+  Name "health":
+  <img
+    alt="health"
+    class="makeStyles-icons-43"
+    src="health.png"
+  />
+
+  Name "history":
+  <img
+    alt="history"
+    class="makeStyles-icons-43"
+    src="history.png"
+  />
+
+  Name "Motivation":
+  <img
+    alt="Motivation"
+    class="makeStyles-icons-43"
+    src="bulb.png"
+  />
+
+  Name "Productivity":
+  <img
+    alt="Productivity"
+    class="makeStyles-icons-43"
+    src="timer.png"
+  />
+
+  Name "Career":
+  <img
+    alt="Career"
+    class="makeStyles-icons-43"
+    src="doublecircle.png"
+  />
+
+  Name "Marketing":
+  <img
+    alt="Marketing"
+    class="makeStyles-icons-43"
+    src="statistics.png"
+  />
+
+  Name "Personal Development":
+  <img
+    alt=" Personal Development"
+    class="makeStyles-icons-43"
+    src="analytical.png"
+  />
+
+  Name "Communication Skills":
+  <img
+    alt=" Communication Skills"
+    class="makeStyles-icons-43"
+    src="msg.png"
+  />
+
+  Name "Investments":
+  <img
+    alt="Investments "
+    class="makeStyles-icons-43"
+    src="money.png"
+  />
+
+  Name "Relationships":
+  <img
+    alt="Relationships "
+    class="makeStyles-icons-43"
+    src="heart.png"
+  />
+
+  Name "Education":
+  <img
+    alt="Education"
+    class="makeStyles-icons-43"
+    src="education.png"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="makeStyles-container-34"
+      data-testid="explore"
+    >
+      <div
+        class="makeStyles-inner-35"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-44 makeStyles-explore_container-38"
+        >
+          <div
+            class="makeStyles-explore_header-39"
+          >
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-40 MuiTypography-body1 MuiTypography-colorPrimary"
+            >
+              Explore by category
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-40 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See recently added titles
+            </p>
+            <p
+              class="MuiTypography-root makeStyles-explore_titles-40 MuiTypography-body1 MuiTypography-colorTextPrimary"
+            >
+              See popular titles
+            </p>
+          </div>
+          <div
+            class="makeStyles-explore_content-41"
+          >
+            <div
+              class="makeStyles-explore_content-41"
+            >
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="entrepreneurship"
+                  class="makeStyles-icons-43"
+                  src="rocket.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelement1-37 MuiTypography-body2 MuiTypography-colorTextPrimary"
+                >
+                  Entrepreneurship
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="science"
+                  class="makeStyles-icons-43"
+                  src="science.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Science 
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Economics"
+                  class="makeStyles-icons-43"
+                  src="globe.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Economics
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Corporate Culture"
+                  class="makeStyles-icons-43"
+                  src="bag.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Corporate Culture
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                 
+                <img
+                  alt="Psychology"
+                  class="makeStyles-icons-43"
+                  src="man.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Psychology
+                </p>
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                 
+                <img
+                  alt="Nature"
+                  class="makeStyles-icons-43"
+                  src="leaf.png"
+                />
+                  
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Nature & Environment
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-41"
+            >
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Politics"
+                  class="makeStyles-icons-43"
+                  src="buliding.png"
+                />
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Politics
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="health"
+                  class="makeStyles-icons-43"
+                  src="health.png"
+                />
+                 
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Health & Nutrition
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="history"
+                  class="makeStyles-icons-43"
+                  src="history.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  History
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Motivation"
+                  class="makeStyles-icons-43"
+                  src="bulb.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Motivation & Inspiration
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Productivity"
+                  class="makeStyles-icons-43"
+                  src="timer.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Productivity
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Career"
+                  class="makeStyles-icons-43"
+                  src="doublecircle.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Career & Success
+                </p>
+                 
+              </div>
+            </div>
+            <div
+              class="makeStyles-explore_content-41"
+            >
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Marketing"
+                  class="makeStyles-icons-43"
+                  src="statistics.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Marketing & Sales
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt=" Personal Development"
+                  class="makeStyles-icons-43"
+                  src="analytical.png"
+                />
+                   
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Personal Development
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt=" Communication Skills"
+                  class="makeStyles-icons-43"
+                  src="msg.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Communication Skills
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Investments "
+                  class="makeStyles-icons-43"
+                  src="money.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Money & Investments
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Relationships "
+                  class="makeStyles-icons-43"
+                  src="heart.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Sex & Relationships
+                </p>
+                 
+              </div>
+              <div
+                class="makeStyles-subtitles-42"
+              >
+                <img
+                  alt="Education"
+                  class="makeStyles-icons-43"
+                  src="education.png"
+                />
+                    
+                <p
+                  class="MuiTypography-root makeStyles-subelements-36 MuiTypography-body2"
+                >
+                  Education
+                </p>
+                 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/organisms/expandtobar/index.test.tsx:24:23)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render rocket icon" duration="42"/>
+    <testCase name="should render health icon" duration="40"/>
+    <testCase name="should render science icon" duration="37"/>
+    <testCase name="should render Econics icon" duration="37"/>
+    <testCase name="should render Motivation icon" duration="35"/>
+    <testCase name="should render Productivity icon" duration="37"/>
+    <testCase name="should render Career icon" duration="36"/>
+    <testCase name="should render Personal Development icon" duration="40"/>
+    <testCase name="should render  icon" duration="42"/>
+    <testCase name="should render Investments icon" duration="34"/>
+    <testCase name="should render Relationships icon" duration="34"/>
+    <testCase name="should render Education icon" duration="36"/>
+    <testCase name="should render history icon" duration="38"/>
+    <testCase name="should render Corporate Culture icon" duration="35"/>
+    <testCase name="should render Psychology icon" duration="33"/>
+    <testCase name="should render Nature icon" duration="34"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/currentTab/tabs.test.tsx">
+    <testCase name="first snapshot" duration="118"/>
+    <testCase name="should render tab Current tab" duration="92"/>
+    <testCase name="should render tab finished" duration="34"/>
+    <testCase name="should render tab" duration="137"/>
+    <testCase name="should render mapp data button" duration="412"/>
+    <testCase name="should render mapp data" duration="325"/>
+    <testCase name="should render mapp dat" duration="201"/>
+    <testCase name="should render mapp databutton" duration="191"/>
+    <testCase name="should render mapp data headings" duration="175"/>
+    <testCase name="should render  onchange" duration="29"/>
+    <testCase name="should render mapp databutton fun" duration="234"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/molecules/BookCard/index.test.tsx">
+    <testCase name="first snapshot" duration="137"/>
+    <testCase name="should render image" duration="187">
+      <failure message="TestingLibraryElementError: Found multiple elements with the role &quot;img&quot;"><![CDATA[TestingLibraryElementError: Found multiple elements with the role "img"
+
+Here are the matching elements:
+
+Ignored nodes: comments, <script />, <style />
+<img
+  alt="Bring Your Human to Work"
+  height="342"
+  src="card1.jpg"
+  width="340"
+/>
+
+Ignored nodes: comments, <script />, <style />
+<img
+  alt="rantangle"
+  class="makeStyles-rectangle-5"
+  src="rectangle.svg"
+/>
+
+(If this is intentional, then use the `*AllBy*` variant of the query (like `queryAllByText`, `getAllByText`, or `findAllByText`)).
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-cardCon-1 MuiPaper-elevation1 MuiPaper-rounded"
+      data-testid="cards1"
+    >
+      <img
+        alt="Bring Your Human to Work"
+        height="342"
+        src="card1.jpg"
+        width="340"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+          data-testid="headings-1"
+        >
+          Bring Your Human to Work
+        </h6>
+        <p
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-body1"
+        >
+          Erica Keswin
+        </p>
+        <div
+          class="makeStyles-cardcontent-4"
+          style="display: inline-flex; gap: 2px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+          >
+            13-minute read
+          </span>
+        </div>
+        <div
+          style="display: inline-flex; gap: 2px; margin-left: 70px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 6c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0 9c2.7 0 5.8 1.29 6 2v1H6v-.99c.2-.72 3.3-2.01 6-2.01m0-11C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+            data-testid="readcount-1"
+          >
+            19.1k reads
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <div>
+           
+        </div>
+        <div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-tabButtons-3"
+            data-testid="button-1"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Finished
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <img
+            alt="rantangle"
+            class="makeStyles-rectangle-5"
+            src="rectangle.svg"
+          />
+        </div>
+        <div />
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:25:35)
+    at getMultipleElementsFoundError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:29:10)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:66:13
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/molecules/BookCard/index.test.tsx:34:29)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render Book name" duration="75"/>
+    <testCase name="should render Book author name" duration="517">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;Erica Keswin&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "Erica Keswin"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "Bring Your Human to Work":
+  <img
+    alt="Bring Your Human to Work"
+    height="342"
+    src="card1.jpg"
+    width="340"
+  />
+
+  Name "rantangle":
+  <img
+    alt="rantangle"
+    class="makeStyles-rectangle-5"
+    src="rectangle.svg"
+  />
+
+  --------------------------------------------------
+  heading:
+
+  Name "Bring Your Human to Work":
+  <h6
+    class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+    data-testid="headings-1"
+  />
+
+  --------------------------------------------------
+  button:
+
+  Name "Finished":
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-tabButtons-3"
+    data-testid="button-1"
+    tabindex="0"
+    type="button"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-cardCon-1 MuiPaper-elevation1 MuiPaper-rounded"
+      data-testid="cards1"
+    >
+      <img
+        alt="Bring Your Human to Work"
+        height="342"
+        src="card1.jpg"
+        width="340"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+          data-testid="headings-1"
+        >
+          Bring Your Human to Work
+        </h6>
+        <p
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-body1"
+        >
+          Erica Keswin
+        </p>
+        <div
+          class="makeStyles-cardcontent-4"
+          style="display: inline-flex; gap: 2px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+          >
+            13-minute read
+          </span>
+        </div>
+        <div
+          style="display: inline-flex; gap: 2px; margin-left: 70px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 6c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0 9c2.7 0 5.8 1.29 6 2v1H6v-.99c.2-.72 3.3-2.01 6-2.01m0-11C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+            data-testid="readcount-1"
+          >
+            19.1k reads
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <div>
+           
+        </div>
+        <div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-tabButtons-3"
+            data-testid="button-1"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Finished
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <img
+            alt="rantangle"
+            class="makeStyles-rectangle-5"
+            src="rectangle.svg"
+          />
+        </div>
+        <div />
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/molecules/BookCard/index.test.tsx:45:31)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render Book read time" duration="500">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;13-minute read&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "13-minute read"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "Bring Your Human to Work":
+  <img
+    alt="Bring Your Human to Work"
+    height="342"
+    src="card1.jpg"
+    width="340"
+  />
+
+  Name "rantangle":
+  <img
+    alt="rantangle"
+    class="makeStyles-rectangle-5"
+    src="rectangle.svg"
+  />
+
+  --------------------------------------------------
+  heading:
+
+  Name "Bring Your Human to Work":
+  <h6
+    class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+    data-testid="headings-1"
+  />
+
+  --------------------------------------------------
+  button:
+
+  Name "Finished":
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-tabButtons-3"
+    data-testid="button-1"
+    tabindex="0"
+    type="button"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-cardCon-1 MuiPaper-elevation1 MuiPaper-rounded"
+      data-testid="cards1"
+    >
+      <img
+        alt="Bring Your Human to Work"
+        height="342"
+        src="card1.jpg"
+        width="340"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+          data-testid="headings-1"
+        >
+          Bring Your Human to Work
+        </h6>
+        <p
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-body1"
+        >
+          Erica Keswin
+        </p>
+        <div
+          class="makeStyles-cardcontent-4"
+          style="display: inline-flex; gap: 2px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+          >
+            13-minute read
+          </span>
+        </div>
+        <div
+          style="display: inline-flex; gap: 2px; margin-left: 70px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 6c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0 9c2.7 0 5.8 1.29 6 2v1H6v-.99c.2-.72 3.3-2.01 6-2.01m0-11C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+            data-testid="readcount-1"
+          >
+            19.1k reads
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <div>
+           
+        </div>
+        <div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-tabButtons-3"
+            data-testid="button-1"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Finished
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <img
+            alt="rantangle"
+            class="makeStyles-rectangle-5"
+            src="rectangle.svg"
+          />
+        </div>
+        <div />
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/molecules/BookCard/index.test.tsx:50:31)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render Button" duration="87"/>
+    <testCase name="should not render Button" duration="458">
+      <failure message="TestingLibraryElementError: Unable to find an accessible element with the role &quot;heading&quot; and name &quot;13-minute read&quot;"><![CDATA[TestingLibraryElementError: Unable to find an accessible element with the role "heading" and name "13-minute read"
+
+Here are the accessible roles:
+
+  img:
+
+  Name "Bring Your Human to Work":
+  <img
+    alt="Bring Your Human to Work"
+    height="342"
+    src="card1.jpg"
+    width="340"
+  />
+
+  Name "rantangle":
+  <img
+    alt="rantangle"
+    class="makeStyles-rectangle-5"
+    src="rectangle.svg"
+  />
+
+  --------------------------------------------------
+  heading:
+
+  Name "Bring Your Human to Work":
+  <h6
+    class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+    data-testid="headings-1"
+  />
+
+  Name ". . .":
+  <h5
+    class="MuiTypography-root makeStyles-dots-6 MuiTypography-h5"
+  />
+
+  --------------------------------------------------
+
+Ignored nodes: comments, <script />, <style />
+<body>
+  <div>
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-cardCon-1 MuiPaper-elevation1 MuiPaper-rounded"
+      data-testid="cards1"
+    >
+      <img
+        alt="Bring Your Human to Work"
+        height="342"
+        src="card1.jpg"
+        width="340"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-subtitle2"
+          data-testid="headings-1"
+        >
+          Bring Your Human to Work
+        </h6>
+        <p
+          class="MuiTypography-root makeStyles-cardcontent-4 MuiTypography-body1"
+        >
+          Erica Keswin
+        </p>
+        <div
+          class="makeStyles-cardcontent-4"
+          style="display: inline-flex; gap: 2px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+            <path
+              d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+          >
+            13-minute read
+          </span>
+        </div>
+        <div
+          style="display: inline-flex; gap: 2px; margin-left: 70px;"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 6c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0 9c2.7 0 5.8 1.29 6 2v1H6v-.99c.2-.72 3.3-2.01 6-2.01m0-11C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"
+            />
+          </svg>
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+            data-testid="readcount-1"
+          >
+            19.1k reads
+          </span>
+        </div>
+      </div>
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <div>
+           
+        </div>
+        <div />
+        <div>
+          <h5
+            class="MuiTypography-root makeStyles-dots-6 MuiTypography-h5"
+          >
+            . . .
+          </h5>
+          <img
+            alt="rantangle"
+            class="makeStyles-rectangle-5"
+            src="rectangle.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/config.js:38:19)
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:90:38
+    at /home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:62:17
+    at getByRole (/home/bharts/my-blinkist-app/node_modules/@testing-library/dom/dist/query-helpers.js:111:19)
+    at Object.<anonymous> (/home/bharts/my-blinkist-app/src/components/molecules/BookCard/index.test.tsx:60:31)
+    at Promise.then.completed (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/utils.js:316:10)
+    at _callCircusTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:155:3)
+    at _runTestsForDescribeBlock (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:66:9)
+    at run (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/run.js:25:3)
+    at runAndTransformResultsToJestFormat (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:170:21)
+    at jestAdapter (/home/bharts/my-blinkist-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:82:19)
+    at runTestInternal (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:389:16)
+    at runTest (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/runTest.js:475:34)
+    at Object.worker (/home/bharts/my-blinkist-app/node_modules/jest-runner/build/testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="should render mapp data button" duration="31"/>
+    <testCase name="should render mapp data" duration="131"/>
+    <testCase name="should render function" duration="24"/>
+    <testCase name="should render mapp data button fun" duration="34"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/templates/Entrepreneurship.test.tsx">
+    <testCase name="first snapshot" duration="226"/>
+    <testCase name="should render footer logo" duration="163"/>
+    <testCase name="should render Footer heading" duration="389"/>
+    <testCase name="should render Footer subheading1" duration="240"/>
+    <testCase name="should render Footer subheading2" duration="211"/>
+    <testCase name="should render Footer subheading" duration="76"/>
+    <testCase name="should render Footer subheading4" duration="193"/>
+    <testCase name="should render Footer subheading5" duration="91"/>
+    <testCase name="should render Footer subheading6" duration="79"/>
+    <testCase name="should render Footer subheading7" duration="83"/>
+    <testCase name="should render Footer subheading8" duration="64"/>
+    <testCase name="should render Footer subheading18" duration="180"/>
+    <testCase name="should render Footer subheading9" duration="175"/>
+    <testCase name="should render Footer subheading10" duration="109"/>
+    <testCase name="should render Footer subheading11" duration="102"/>
+    <testCase name="should render Footer subheading20" duration="236"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/templates/Bookdetailviewpage.test.tsx">
+    <testCase name="first snapshot" duration="201"/>
+    <testCase name="should render footer logo" duration="177"/>
+    <testCase name="should render Footer heading" duration="357"/>
+    <testCase name="should render Footer subheading1" duration="239"/>
+    <testCase name="should render Footer subheading2" duration="212"/>
+    <testCase name="should render Footer subheading3" duration="93"/>
+    <testCase name="should render Footer subheading4" duration="218"/>
+    <testCase name="should render Footer subheading5" duration="107"/>
+    <testCase name="should render Footer subheading6" duration="93"/>
+    <testCase name="should render Footer subheading7" duration="93"/>
+    <testCase name="should render Footer subheading8" duration="81"/>
+    <testCase name="should render Footer subheading18" duration="216"/>
+    <testCase name="should render Footer subheading9" duration="225"/>
+    <testCase name="should render Footer subheading10" duration="61"/>
+    <testCase name="should render Footer subheading11" duration="59"/>
+    <testCase name="should render Footer subheading12" duration="237"/>
+    <testCase name="should render seacrh icon" duration="58"/>
+    <testCase name="should render logo icon" duration="59"/>
+    <testCase name="should render downlist icon" duration="78"/>
+    <testCase name="should render downlist1 icon" duration="70"/>
+    <testCase name="should render Explore text" duration="64"/>
+    <testCase name="should render mapp data" duration="233"/>
+    <testCase name="should render mapp" duration="192"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/templates/index.test.tsx">
+    <testCase name="first snapshot" duration="193"/>
+    <testCase name="should render tab finished" duration="171"/>
+    <testCase name="should render heading" duration="346"/>
+    <testCase name="should render footer logo" duration="99"/>
+    <testCase name="should render Footer subheading" duration="77"/>
+    <testCase name="should render Footer subheading4" duration="229"/>
+    <testCase name="should render Footer subheading5" duration="59"/>
+    <testCase name="should render Footer subheading6" duration="81"/>
+    <testCase name="should render Footer subheading7" duration="105"/>
+    <testCase name="should render Footer subheading8" duration="65"/>
+    <testCase name="should render Footer subheading18" duration="227"/>
+    <testCase name="should render Footer subheading9" duration="153"/>
+    <testCase name="should render Footer subheading10" duration="91"/>
+    <testCase name="should render Footer subheading11" duration="134"/>
+    <testCase name="should render Footer heading" duration="202"/>
+    <testCase name="should render Footer subheading1" duration="205"/>
+    <testCase name="should render Footer subheading2" duration="207"/>
+    <testCase name="should render Footer subheading17" duration="232"/>
+    <testCase name="should render Footer subheading12" duration="224"/>
+    <testCase name="should render tab Current tab" duration="57"/>
+    <testCase name="should render tab" duration="58"/>
+    <testCase name="should render true tab" duration="121"/>
+    <testCase name="should render seacrh icon" duration="58"/>
+    <testCase name="should render logo icon" duration="51"/>
+    <testCase name="should render downlist icon" duration="61"/>
+    <testCase name="should render downlist1 icon" duration="59"/>
+    <testCase name="should render Explore text" duration="53"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/molecules/Footer/index.test.tsx">
+    <testCase name="should render footer logo" duration="128"/>
+    <testCase name="should render Footer heading" duration="103"/>
+    <testCase name="should render Footer subheading1" duration="72"/>
+    <testCase name="should render Footer subheading2" duration="71"/>
+    <testCase name="should render Footer subheading12" duration="73"/>
+    <testCase name="should render Footer subheading" duration="34"/>
+    <testCase name="should render Footer subheading4" duration="54"/>
+    <testCase name="should render Footer subheading5" duration="34"/>
+    <testCase name="should render Footer subheading6" duration="32"/>
+    <testCase name="should render Footer subheading7" duration="30"/>
+    <testCase name="should render Footer subheading8" duration="30"/>
+    <testCase name="should render Footer subheading18" duration="29"/>
+    <testCase name="should render Footer subheading9" duration="33"/>
+    <testCase name="should render Footer subheading10" duration="27"/>
+    <testCase name="should render Footer subheading11" duration="29"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/headers/AppBars.test.tsx">
+    <testCase name="should render seacrh icon" duration="108"/>
+    <testCase name="should render logo icon" duration="33"/>
+    <testCase name="should render downlist icon" duration="30"/>
+    <testCase name="should render downlist1 icon" duration="29"/>
+    <testCase name="should render Explore text" duration="43"/>
+    <testCase name="should render button click" duration="49"/>
+    <testCase name="should render explore click" duration="85"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/stories/Page.test.tsx">
+    <testCase name="render text" duration="77"/>
+    <testCase name="render paragraph" duration="12"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/molecules/Banner/Banner.test.tsx">
+    <testCase name="should render heading1" duration="145"/>
+    <testCase name="should render heading2" duration="50"/>
+    <testCase name="should render subtitilepart1" duration="56"/>
+    <testCase name="should render subtitilepart2" duration="43"/>
+    <testCase name="should render subtitilepart3" duration="46"/>
+    <testCase name="should render bannerImage" duration="24"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/pages/CoverPage.test.tsx">
+    <testCase name="should render image" duration="145"/>
+    <testCase name="should render button" duration="64"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/stories/Header.test.tsx">
+    <testCase name="render button" duration="69"/>
+    <testCase name="render name" duration="8"/>
+    <testCase name="render fun" duration="35"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/stories/Button.test.tsx">
+    <testCase name="render button" duration="41"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/atoms/ImageDisplays/ImageDisplay.test.tsx">
+    <testCase name="should render image" duration="38"/>
+    <testCase name="should render images" duration="5"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/Search/SearchBar.test.tsx">
+    <testCase name="first snapshot" duration="164"/>
+    <testCase name="shoult render Trending blinks heading" duration="203"/>
+    <testCase name="shoult render Just added heading" duration="87"/>
+    <testCase name="shoult render Featured audio blinks heading" duration="73"/>
+    <testCase name="should render mapp data" duration="368"/>
+    <testCase name="should render mapp data button" duration="126"/>
+    <testCase name="should render mapp data just added book" duration="129"/>
+    <testCase name="should render mapp data buttons" duration="97"/>
+    <testCase name="should render mapp dat" duration="88"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/App.test.tsx">
+    <testCase name="first snapshot" duration="48"/>
+  </file>
+  <file path="/home/bharts/my-blinkist-app/src/components/organisms/BookDetailView/BookdetailView.test.tsx">
+    <testCase name="should render image of book" duration="86"/>
+    <testCase name="should render heading of page" duration="22"/>
+    <testCase name="render div" duration="10"/>
+    <testCase name="first snapshot" duration="15"/>
+    <testCase name="should render mapp data" duration="205"/>
+    <testCase name="should render mapp data2" duration="86"/>
+    <testCase name="should render mapp databutton2" duration="39"/>
+    <testCase name="should render mapp databutton3" duration="48"/>
+    <testCase name="should render mapp databutton3 fun" duration="50"/>
+    <testCase name="should render mapp databutton2 fun" duration="39"/>
+  </file>
+</testExecutions>

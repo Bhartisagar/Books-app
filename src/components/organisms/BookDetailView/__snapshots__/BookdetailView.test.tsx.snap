@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first snapshot 1`] = `
+Array [
+  <h6
+    className="MuiTypography-root makeStyles-sub-20 MuiTypography-h6"
+  >
+    Get the key ideas from
+  </h6>,
+  <div
+    className="makeStyles-mainDiv-19"
+    data-testid="test"
+  >
+    <div />
+    <div>
+       
+      <img
+        alt="book"
+        src="2.png"
+      />
+    </div>
+  </div>,
+]
+`;

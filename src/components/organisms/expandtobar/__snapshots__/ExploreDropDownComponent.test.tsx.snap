@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first snapshot 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-9 makeStyles-explore_container-3"
+>
+  <div
+    className="makeStyles-explore_header-4"
+  >
+    <p
+      className="MuiTypography-root makeStyles-explore_titles-5 MuiTypography-body1 MuiTypography-colorPrimary"
+    >
+      Explore by category
+    </p>
+    <p
+      className="MuiTypography-root makeStyles-explore_titles-5 MuiTypography-body1 MuiTypography-colorTextPrimary"
+    >
+      See recently added titles
+    </p>
+    <p
+      className="MuiTypography-root makeStyles-explore_titles-5 MuiTypography-body1 MuiTypography-colorTextPrimary"
+    >
+      See popular titles
+    </p>
+  </div>
+  <div
+    className="makeStyles-explore_content-6"
+  >
+    <div
+      className="makeStyles-explore_content-6"
+    >
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="entrepreneurship"
+          className="makeStyles-icons-8"
+          src="rocket.png"
+        />
+           
+        <p
+          className="MuiTypography-root makeStyles-subelement1-2 MuiTypography-body2 MuiTypography-colorTextPrimary"
+          onClick={[Function]}
+        >
+          Entrepreneurship
+        </p>
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="science"
+          className="makeStyles-icons-8"
+          src="science.png"
+        />
+         
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Science 
+        </p>
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Economics"
+          className="makeStyles-icons-8"
+          src="globe.png"
+        />
+          
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Economics
+        </p>
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Corporate Culture"
+          className="makeStyles-icons-8"
+          src="bag.png"
+        />
+          
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Corporate Culture
+        </p>
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+         
+        <img
+          alt="Psychology"
+          className="makeStyles-icons-8"
+          src="man.png"
+        />
+          
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Psychology
+        </p>
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+         
+        <img
+          alt="Nature"
+          className="makeStyles-icons-8"
+          src="leaf.png"
+        />
+          
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Nature & Environment
+        </p>
+      </div>
+    </div>
+    <div
+      className="makeStyles-explore_content-6"
+    >
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Politics"
+          className="makeStyles-icons-8"
+          src="buliding.png"
+        />
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Politics
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="health"
+          className="makeStyles-icons-8"
+          src="health.png"
+        />
+         
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Health & Nutrition
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="history"
+          className="makeStyles-icons-8"
+          src="history.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          History
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Motivation"
+          className="makeStyles-icons-8"
+          src="bulb.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Motivation & Inspiration
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Productivity"
+          className="makeStyles-icons-8"
+          src="timer.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Productivity
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Career"
+          className="makeStyles-icons-8"
+          src="doublecircle.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Career & Success
+        </p>
+         
+      </div>
+    </div>
+    <div
+      className="makeStyles-explore_content-6"
+    >
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Marketing"
+          className="makeStyles-icons-8"
+          src="statistics.png"
+        />
+           
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Marketing & Sales
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt=" Personal Development"
+          className="makeStyles-icons-8"
+          src="analytical.png"
+        />
+           
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Personal Development
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt=" Communication Skills"
+          className="makeStyles-icons-8"
+          src="msg.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Communication Skills
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Investments "
+          className="makeStyles-icons-8"
+          src="money.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Money & Investments
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Relationships "
+          className="makeStyles-icons-8"
+          src="heart.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Sex & Relationships
+        </p>
+         
+      </div>
+      <div
+        className="makeStyles-subtitles-7"
+      >
+        <img
+          alt="Education"
+          className="makeStyles-icons-8"
+          src="education.png"
+        />
+            
+        <p
+          className="MuiTypography-root makeStyles-subelements-1 MuiTypography-body2"
+        >
+          Education
+        </p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+`;
